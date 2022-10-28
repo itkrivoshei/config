@@ -1,2 +1,1 @@
-# config
-My configs
+# My .dots
